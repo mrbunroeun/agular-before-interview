@@ -1,0 +1,10 @@
+let lname;
+lname = "Santosh";
+let newName = lname.toUpperCase();
+console.log(newName);
+let age;
+age = 25;
+age = 25.5;
+let dob = "25";
+let result = parseInt(dob);
+console.log(result);
